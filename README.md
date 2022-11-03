@@ -12,7 +12,11 @@ Why __Rust__ is so 🚀🚀 and memory usage so 🤏🤏
 Why __Rust__ is so 😃😃
 
 > Dynamically Typed Language
+
 > So similar to other programming langs
+
 > Has macros
+
 > Has enumerators
+
 > Has a OOP like C++ real
