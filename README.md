@@ -1,0 +1,2 @@
+# rust-so-speedy
+🚀🔥🔥 Rust
