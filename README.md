@@ -20,3 +20,5 @@ Why __Rust__ is so 😃😃
 > Has enumerators
 
 > Has a OOP like C++ real
+
+**Start using Rust in your ML/AI Models, Operating Systems, Backends, and more today!**
