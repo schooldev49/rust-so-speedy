@@ -11,7 +11,7 @@ Why __Rust__ is so 🚀🚀 and memory usage so 🤏🤏
 
 Why __Rust__ is so 😃😃
 
-> Dynamically Typed Language
+> Statically Typed Language
 
 > So similar to other programming langs
 
